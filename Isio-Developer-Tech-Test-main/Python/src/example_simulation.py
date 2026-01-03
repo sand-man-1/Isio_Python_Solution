@@ -1,5 +1,5 @@
-from gilded_rose import *
-from models import Item
+from src.gilded_rose import GildedRose
+from src.models import Item
 
 
 def main():
